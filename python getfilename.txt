@@ -1,0 +1,5 @@
+python to get all file name in a directory
+
+Solution ：there are two functions
+
+os.listdir() and os.walk()
