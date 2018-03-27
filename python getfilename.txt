@@ -3,3 +3,6 @@ python to get all file name in a directory
 Solution ：there are two functions
 
 os.listdir() and os.walk()
+
+Python operations related to folders
+ - https://blog.csdn.net/wang010366/article/details/52512516
