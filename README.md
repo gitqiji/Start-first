@@ -1,4 +1,5 @@
 # Start-first
+Personal practice notes are only used for learning
 Problems encountered in the development process, corresponding solutions and related links 
 
 getfilename.sh
