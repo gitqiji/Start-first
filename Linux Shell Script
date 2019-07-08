@@ -4,3 +4,7 @@ Solution:
     comm , diff
 Reference linking:
     http://blog.csdn.net/shuckstark/article/details/7872176
+    
+打印当前时间
+echo `date "+%Y-%m-%d %H-%M-S%"`
+2019-07-08 17:12:56
